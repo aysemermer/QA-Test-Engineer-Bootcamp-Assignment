@@ -1,0 +1,8 @@
+{
+  "reporter": "mochawesome",
+  "reporterOptions": {
+    "reportDir": "mochawesome-report",
+    "reportFilename": "mochawesome-report-[hash].json",
+    "overwrite": false
+  }
+}
